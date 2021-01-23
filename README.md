@@ -14,6 +14,7 @@ This repo is an overview of provisional patents from a creator / inventor's poin
 ## Quick disclaimer
 **I am not a lawyer and cannot provide legal advice.  If you have any doubts then please seek the advice of a patent attorney**
 
+
 ## Links to Template, Examples, Resources
 Link to Template is word (.docx) version here : [Provisional Patent Template .docx](./Prov-Patent-Template.docx)  
 
