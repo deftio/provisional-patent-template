@@ -3,7 +3,7 @@
 # A Provisional Patent Template for Inventors
 (c) 2020 Manu Chatterjee  -- deftio (at) deftio (dot) com
 
-As(an)entreprenuer or inventor understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
+For entreprenuers and inventors understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
 
 This repository contains a template that anyone can use to draft a simple provisional patent and file it with the US Patent office.
 
