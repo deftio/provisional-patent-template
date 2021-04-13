@@ -58,6 +58,8 @@ The following are supplementary links on provisional patents and how they are us
 * [IP Watchdog: Prov Patents](https://www.ipwatchdog.com/2016/08/13/what-are-provisional-patents/id=71882/)
 * [Wikipedia on Prov Patents](https://en.wikipedia.org/wiki/Provisional_application)
 * [Prov Patents at Forbes](https://www.forbes.com/sites/stephenkey/2018/01/08/dont-file-that-patent-yet-file-a-provisional-patent-application-first/?sh=5021340357fe)
+* [Patentfile.org - resources for Inventors with examples](https://patentfile.org/provisional-patent-example-free-download/)
+* [Patent Process for Startup Founders](https://medium.com/swlh/the-patent-process-what-startup-founders-should-know-fdedacc48a9b)
 
 
 ## Closing
