@@ -1,15 +1,21 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d072ed0-04ac-4523-b986-003b254379d2/deploy-status)](https://app.netlify.com/sites/deftio-provisional-patent-template/deploys)
+
 
 # A Provisional Patent Template for Inventors
 (c) 2020 Manu Chatterjee  -- deftio (at) deftio (dot) com
 
+<<<<<<< HEAD
 As an entreprenuer or inventor understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
+=======
+For entreprenuers and inventors understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  Patents grant the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
+>>>>>>> ae38f0bc5756f6f28ec7c4279a08000415362035
 
 This repository contains a template that anyone can use to draft a simple provisional patent and file it with the US Patent office.
 
 I've been through several startups, worked at some very large companies, and had several patents granted.  I have used the template here for many of my filings and for assisting other startups in getting their first filings done.  More importantly, by using a good template, it saves time for when you must convert a provisional patent in to a full patent filing.
 
-This repo is an overview of provisional patents from a creator / inventor's point of view, along with a template and explanation of the patent process.  I'll touch on US based patents, provisional patents, and conversion, but I strongly advise that you seek professional legal advice if you are inexperienced with the Intellectual Property landscape.
+This repo is an overview of provisional patents from a creator / inventor's point of view, along with a template and explanation of the patent process.  I'll touch on US based patents, provisional patents, and conversion, but I strongly advise that you seek professional legal advice if you are inexperienced with the Intellectual Property landscape.  Also patents cost money to file and issue (outside of time and any legal fees).  Patents are not automatically enforced by any government agency.  It is the responsibility of patent owner to identify infringers and to use legal action to affect a result.
 
 ## Quick disclaimer
 **I am not a lawyer and cannot provide legal advice.  If you have any doubts then please seek the advice of a patent attorney**
@@ -27,7 +33,7 @@ Here is the USPTO page for getting the latest provisional patent filing sheet [S
 
 Here is a link to where to file on the USPTO. [USPTO online filing](https://patentcenter.uspto.gov/#!/submissions/fa2fa6b1-8794-46df-b4b0-c54ae9b8348b/filingMethod?category=NewSubmissions)
 
-International filing?  Once you file your provisional you can use the filing date and your filled out application (including your filled out template) to assist your legal counsel in getting patent protection in other countries.  Be sure to observe specific time limits.
+International filing? This is a US based form, so cnce you file your provisional you can use the filing date and your filled out application (including your filled out template) to assist your legal counsel in getting patent protection in other countries.  Be sure to observe specific time limits.
 
 Finally be aware that filing patents can be expensive. While patents can be one of the strongest ways for their owner to protect themselves from being copied. A patent grant's the owner the right to make or roduce something exclusively for a period of time (typically 20 years from the date of filing). Securing patent rights can help an inventor or small business protect unique product features from being copied and make it easier to raise money. However one should be aware that securing patents can be expensive, time consuming, and may not even be appropriate for many businesses.
 
@@ -49,9 +55,15 @@ For tech startups investors take a slightly nuanced view. A patent can function 
 
 ## Quick notes:
 
+<<<<<<< HEAD
 * A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder for the date (assuming all the parts are provided).  
 * The term of a provisional patent is 12 months from filing.  This means that holder of the provisional patent has 12 months to convert the patent from provisional status to a full blown patent application.
+=======
+* A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder (assuming all the parts are provided).  
+* The term of a provisional patent is 12 months from filing.  This means that holder of the provisional patent has 12 months to convert the patent from provisional status to a full blown patent application.  This is a hard deadline and can't be extended (note there are some **extremely rare** circumstances where this can be appealed by a couple months but it comes at high costs and requires specific legal expertise - stick with 12 months.)
+>>>>>>> ae38f0bc5756f6f28ec7c4279a08000415362035
 * You cannot file a provisional patent on a design patent.
+* Once a provisional patent is filed the filer can claim "patent pending" on all public product documentation
 
 ## Supplementary Links:
 The following are supplementary links on provisional patents and how they are used.
@@ -63,6 +75,8 @@ The following are supplementary links on provisional patents and how they are us
 * [IP Watchdog: Prov Patents](https://www.ipwatchdog.com/2016/08/13/what-are-provisional-patents/id=71882/)
 * [Wikipedia on Prov Patents](https://en.wikipedia.org/wiki/Provisional_application)
 * [Prov Patents at Forbes](https://www.forbes.com/sites/stephenkey/2018/01/08/dont-file-that-patent-yet-file-a-provisional-patent-application-first/?sh=5021340357fe)
+* [Patentfile.org - resources for Inventors with examples](https://patentfile.org/provisional-patent-example-free-download/)
+* [Patent Process for Startup Founders](https://medium.com/swlh/the-patent-process-what-startup-founders-should-know-fdedacc48a9b)
 
 
 ## Closing
