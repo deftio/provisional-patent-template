@@ -3,11 +3,11 @@
 # A Provisional Patent Template for Inventors
 (c) 2020 Manu Chatterjee  -- deftio (at) deftio (dot) com
 
-As(an)entreprenuer or inventor understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
+As an entreprenuer or inventor understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
 
 This repository contains a template that anyone can use to draft a simple provisional patent and file it with the US Patent office.
 
-I've been through several startups, worked at some very large companies, and had over 45 patents granted.  I have used the template here for many of my filings and for assisting other startups in getting their first filings done.  More importantly, by using a good template, it saves time for when you must convert a provisional patent in to a full patent filing.
+I've been through several startups, worked at some very large companies, and had several patents granted.  I have used the template here for many of my filings and for assisting other startups in getting their first filings done.  More importantly, by using a good template, it saves time for when you must convert a provisional patent in to a full patent filing.
 
 This repo is an overview of provisional patents from a creator / inventor's point of view, along with a template and explanation of the patent process.  I'll touch on US based patents, provisional patents, and conversion, but I strongly advise that you seek professional legal advice if you are inexperienced with the Intellectual Property landscape.
 
@@ -16,6 +16,7 @@ This repo is an overview of provisional patents from a creator / inventor's poin
 
 
 ## Links to Template, Examples, Resources
+
 Link to Template is word (.docx) version here : [Provisional Patent Template .docx](./Prov-Patent-Template.docx)  
 
 Link to Template in rtf version here : [Provisional Patent Template .rtf](./Prov-Patent-Template.rtf)
@@ -27,6 +28,13 @@ Here is the USPTO page for getting the latest provisional patent filing sheet [S
 Here is a link to where to file on the USPTO. [USPTO online filing](https://patentcenter.uspto.gov/#!/submissions/fa2fa6b1-8794-46df-b4b0-c54ae9b8348b/filingMethod?category=NewSubmissions)
 
 International filing?  Once you file your provisional you can use the filing date and your filled out application (including your filled out template) to assist your legal counsel in getting patent protection in other countries.  Be sure to observe specific time limits.
+
+Finally be aware that filing patents can be expensive. While patents can be one of the strongest ways for their owner to protect themselves from being copied. A patent grant's the owner the right to make or roduce something exclusively for a period of time (typically 20 years from the date of filing). Securing patent rights can help an inventor or small business protect unique product features from being copied and make it easier to raise money. However one should be aware that securing patents can be expensive, time consuming, and may not even be appropriate for many businesses.
+
+When a patent is granted it does not mean it is enforced. If some violates (called infringing) on your patent it is up to you, as the patent holder, to litigate the infringer. Patent lawsuits can be extremely costly. All the patent does is give the right to challenge persons or companies that may be copying your invention. For this reason alone certain businesses (for example restaurants) don’t really need patents at all. Even a secret formula is often better left as a trade secret than a patent. So while patents do secure a limited time right of monopoly for an idea, the enforcement path must also make financial sense to justify the expense of obtaining a patent.
+
+For tech startups investors take a slightly nuanced view. A patent can function as a barrier to entry for a competitor which can buy the start up time. Also patents can bought, sold, or even licensed. These can bring financial value in the right context.
+
 
 ## Basic Process
 
@@ -41,7 +49,7 @@ International filing?  Once you file your provisional you can use the filing dat
 
 ## Quick notes:
 
-* A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder (assuming all the parts are provided).  
+* A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder for the date (assuming all the parts are provided).  
 * The term of a provisional patent is 12 months from filing.  This means that holder of the provisional patent has 12 months to convert the patent from provisional status to a full blown patent application.
 * You cannot file a provisional patent on a design patent.
 
