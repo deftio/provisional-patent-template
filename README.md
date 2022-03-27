@@ -5,11 +5,8 @@
 # A Provisional Patent Template for Inventors
 (c) 2020 Manu Chatterjee  -- deftio (at) deftio (dot) com
 
-<<<<<<< HEAD
-As an entreprenuer or inventor understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  A patent grant's the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
-=======
+
 For entreprenuers and inventors understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  Patents grant the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
->>>>>>> ae38f0bc5756f6f28ec7c4279a08000415362035
 
 This repository contains a template that anyone can use to draft a simple provisional patent and file it with the US Patent office.
 
@@ -55,13 +52,10 @@ For tech startups investors take a slightly nuanced view. A patent can function 
 
 ## Quick notes:
 
-<<<<<<< HEAD
-* A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder for the date (assuming all the parts are provided).  
-* The term of a provisional patent is 12 months from filing.  This means that holder of the provisional patent has 12 months to convert the patent from provisional status to a full blown patent application.
-=======
+
 * A provisional patent is not examined by the Patent office for patentability, instead if functions as a placeholder (assuming all the parts are provided).  
 * The term of a provisional patent is 12 months from filing.  This means that holder of the provisional patent has 12 months to convert the patent from provisional status to a full blown patent application.  This is a hard deadline and can't be extended (note there are some **extremely rare** circumstances where this can be appealed by a couple months but it comes at high costs and requires specific legal expertise - stick with 12 months.)
->>>>>>> ae38f0bc5756f6f28ec7c4279a08000415362035
+
 * You cannot file a provisional patent on a design patent.
 * Once a provisional patent is filed the filer can claim "patent pending" on all public product documentation
 
