@@ -20,6 +20,8 @@ This repo is an overview of provisional patents from a creator / inventor's poin
 
 ## Links to Template, Examples, Resources
 
+A full tutorial on using this template is published here: [Patents for for Startups and Inventors with Examples](https://entrepreneurshandbook.co/provisional-patents-for-startups-inventors-with-examples-9539302067cf?sk=6baab5e2f99eb67dc7be00e4039ad006)
+
 Link to Template is word (.docx) version here : [Provisional Patent Template .docx](./Prov-Patent-Template.docx)  
 
 Link to Template in rtf version here : [Provisional Patent Template .rtf](./Prov-Patent-Template.rtf)
