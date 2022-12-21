@@ -1,5 +1,4 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d072ed0-04ac-4523-b986-003b254379d2/deploy-status)](https://app.netlify.com/sites/deftio-provisional-patent-template/deploys)
 
 
 # A Provisional Patent Template for Inventors
