@@ -2,7 +2,7 @@
 
 
 # A Provisional Patent Template for Inventors
-(c) 2020 Manu Chatterjee  -- deftio (at) deftio (dot) com
+(c) 2020-2023 Manu Chatterjee  -- deftio (at) deftio (dot) com
 
 
 For entreprenuers and inventors understanding Intellectual Property is a important.  One of the key aspects of IP is getting a patent.  Patents grant the owner the right to make or produce something exclusively for a period of time (typically 20 years from the date of filing).  
@@ -19,7 +19,7 @@ This repo is an overview of provisional patents from a creator / inventor's poin
 
 ## Links to Template, Examples, Resources
 
-A full tutorial on using this template is published here: [Patents for for Startups and Inventors with Examples](https://entrepreneurshandbook.co/provisional-patents-for-startups-inventors-with-examples-9539302067cf?sk=6baab5e2f99eb67dc7be00e4039ad006)
+A full tutorial on using this template is published here: [Patents for for Startups and Inventors with Examples](https://entrepreneurshandbook.co/provisional-patents-for-startups-inventors-with-examples-9539302067cf?sk=6baab5e2f99eb67dc7be00e4039ad006) and also [here](./article/index.html)
 
 Link to Template is word (.docx) version here : [Provisional Patent Template .docx](./Prov-Patent-Template.docx)  
 
